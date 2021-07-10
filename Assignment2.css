@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.parent{
+    /* height: 300px; */
+    width:100%;
+    background-color: black;
+     padding-top:50px; 
+     padding-bottom:50px; 
+    margin:50px;
+   
+}
+.element{
+    height:300px;
+    width:20%;
+    background-color: gray;
+    margin: 2%;
+    display:inline-block;
+}
